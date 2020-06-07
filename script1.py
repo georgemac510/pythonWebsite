@@ -13,7 +13,7 @@ def plot():
     from bokeh.resources import CDN
 
     start=datetime.datetime(2020,1,1)
-    end=datetime.datetime(2020,6,6)
+    end=datetime.datetime(2020,9,9)
 
     #df=data.get_data_yahoo(tickers="GOOG", start=start, end=end)
     df=data.DataReader(name="RIO",data_source="yahoo",start=start,end=end)
