@@ -43,6 +43,8 @@ This will start your virtual instance. Navigate to http://127.0.0.1:5000/ and th
 will open in your browser. On the top right on the navigation bar click on Plot. If all is well,
 you should see a stock chart of the company Rio Tinto during the first half of 2020.
 
+You can see the app at https://python1website.herokuapp.com.
+
 More improvements to come. Stay tuned!
 
-Visit us at https://mckurzcapital.com to see our other projects
+Visit us at https://mckurzcapital.com to see our other projects.
